@@ -172,6 +172,6 @@ public class PerformanceDGMS {
 			}
 		});
 
-		System.out.println("Checking finished!");
+		System.out.println("Check finished!");
 	}
 }
